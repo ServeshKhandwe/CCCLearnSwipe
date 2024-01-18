@@ -1,2 +1,2 @@
 # Ignore secrets.toml in .streamlit folder
-.streamlit/ocnfig.toml
+.streamlit/config.toml
